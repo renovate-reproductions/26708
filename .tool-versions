@@ -1,0 +1,4 @@
+opentofu   1.6.0
+pre-commit 3.5.0
+tflint     0.50.0
+trivy      0.48.2
